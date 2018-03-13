@@ -1,0 +1,93 @@
+.gradle
+
+**/build/
+**/out/
+*.class
+**/target/
+**/gradle/
+**/db-data
+
+### service ###
+/service/dev-proxy/src/uploads
+
+### Test file for SonarQube ###
+test-report.xml
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+*.log
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+**/nbproject/private/
+**/build/
+**/nbbuild/
+**/dist/
+**/nbdist/
+.nb-gradle/
+# compiled output
+**/dist
+**/tmp
+**/out-tsc
+
+# dependencies
+**/node_modules
+
+# IDEs and editors
+**/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+**/.sass-cache
+**/connect.lock
+**/coverage
+**/libpeerconnection.log
+npm-debug.log
+testem.log
+**/typings
+
+# e2e
+**/e2e/*.js
+**/e2e/*.map
+**/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+**/bin/
+**/db/
+api-client/src/main/resources/static/favicon.ico
+api-client/src/main/resources/static/glyphicons-halflings-regular.448c34a56d699c29117a.woff2
+api-client/src/main/resources/static/glyphicons-halflings-regular.89889688147bd7575d63.svg
+api-client/src/main/resources/static/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf
+api-client/src/main/resources/static/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot
+api-client/src/main/resources/static/glyphicons-halflings-regular.fa2772327f55d8198301.woff
+api-client/src/main/resources/static/index.html
+api-client/src/main/resources/static/inline.bundle.js
+api-client/src/main/resources/static/main.bundle.js
+api-client/src/main/resources/static/polyfills.bundle.js
+api-client/src/main/resources/static/scripts.bundle.js
+api-client/src/main/resources/static/styles.bundle.js
+api-client/src/main/resources/static/vendor.bundle.js
