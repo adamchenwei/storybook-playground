@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChildComponent222 Component renders as expected 1`] = `
+<h2>
+  My Custom ChildComponent222 Has Value Of 
+  none
+</h2>
+`;
+
+exports[`Storyshots Component/App/Stand Alone another change 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="IMAGE_MOCK"
+    />
+    <h1
+      className="App-title"
+    >
+      Welcome to React
+    </h1>
+    <h2>
+      everything111
+    </h2>
+  </header>
+  <p
+    className="App-intro"
+  >
+    To get started22, edit 
+    <code>
+      src/App.js
+    </code>
+     and save to reload.
+  </p>
+</div>
+`;
+
+exports[`Storyshots Component/App/Stand Alone the default change 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="IMAGE_MOCK"
+    />
+    <h1
+      className="App-title"
+    >
+      Welcome to React
+    </h1>
+    <h2 />
+  </header>
+  <p
+    className="App-intro"
+  >
+    To get started22, edit 
+    <code>
+      src/App.js
+    </code>
+     and save to reload.
+  </p>
+</div>
+`;
+
+exports[`Storyshots Component/ChildComponent/Stand Alone another change 1`] = `
+<h2>
+  My Custom Component Has Value Of 
+  my thing
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent/Stand Alone another change 2`] = `
+<h2>
+  My Custom Component Has Value Of 
+  my thing
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent/Stand Alone another change 3`] = `
+<h2>
+  My Custom Component Has Value Of 
+  my thing
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent/Stand Alone the default change 1`] = `
+<h2>
+  My Custom Component Has Value Of 
+  none
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent/Stand Alone the default change 2`] = `
+<h2>
+  My Custom Component Has Value Of 
+  none
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent/Stand Alone the default change 3`] = `
+<h2>
+  My Custom Component Has Value Of 
+  none
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent222/Stand Alone another change 1`] = `
+<h2>
+  My Custom ChildComponent222 Has Value Of 
+  my thing
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent222/Stand Alone another change 2`] = `
+<h2>
+  My Custom ChildComponent222 Has Value Of 
+  my thing
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent222/Stand Alone the default change 1`] = `
+<h2>
+  My Custom ChildComponent222 Has Value Of 
+  none
+</h2>
+`;
+
+exports[`Storyshots Component/ChildComponent222/Stand Alone the default change 2`] = `
+<h2>
+  My Custom ChildComponent222 Has Value Of 
+  none
+</h2>
+`;
