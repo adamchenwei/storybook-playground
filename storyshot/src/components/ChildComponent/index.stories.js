@@ -1,13 +1,13 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react'; // eslint-disable-line
-import App from './App';
+import ChildComponent from './index';
 import initStoryshots from '@storybook/addon-storyshots';
 initStoryshots();
 
-storiesOf('Component/App/Stand Alone', module)
+storiesOf('Component/ChildComponent/Stand Alone', module)
   .add('the default change', () => (
-    <App />
+    <ChildComponent />
   ))
   .add('another change', () => (
-    <App something={'everything111'} />
+    <ChildComponent message={'my thing'} />
   ))
